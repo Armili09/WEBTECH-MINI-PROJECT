@@ -1,0 +1,26 @@
+h3 {color: DodgerBlue;}
+p {color: #242424;;}
+h2 {
+  color: Darkblue;
+  font-family:Arial;
+}
+p:hover {background-color: white;}
+
+input[type=radio] { 
+  background-color: DodgerBlue;
+  text-decoration: none;
+  font-family: 'Balsamiq Sans', cursive;
+  font-size: 100px;
+  padding: 20px;
+  cursor: pointer;
+  border: none;
+  border-radius: 20px;
+  color: MidnightBlue;
+}
+
+input[type=button]:active { 
+  background-color: DeepSkyBlue;
+}
+input[type=button]:hover { 
+  background-color: RoyalBlue;
+}
